@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "144623965772",
+    "firebase_url": "https://virta-apps-default-rtdb.firebaseio.com",
+    "project_id": "virta-apps",
+    "storage_bucket": "virta-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144623965772:android:ca6ed7dc18abe99304c6e9",
+        "android_client_info": {
+          "package_name": "com.example.virtaapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144623965772-nkgiq4nobql4n62f3s7hap5mrbp4n2cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAksNsN1iTCbWeb-dZswaicMN7v8u-uOpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144623965772-nkgiq4nobql4n62f3s7hap5mrbp4n2cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144623965772:android:30cff61ced018ca604c6e9",
+        "android_client_info": {
+          "package_name": "com.virtaapps.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144623965772-nkgiq4nobql4n62f3s7hap5mrbp4n2cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAksNsN1iTCbWeb-dZswaicMN7v8u-uOpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144623965772-nkgiq4nobql4n62f3s7hap5mrbp4n2cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144623965772:android:dc3c7cc7dad2583204c6e9",
+        "android_client_info": {
+          "package_name": "opencv.org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144623965772-nkgiq4nobql4n62f3s7hap5mrbp4n2cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAksNsN1iTCbWeb-dZswaicMN7v8u-uOpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144623965772-nkgiq4nobql4n62f3s7hap5mrbp4n2cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
